@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MapReduceExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MapReduceExample_jar</output-path>
+    <root id="archive" name="MapReduceExample.jar">
+      <element id="module-output" name="MapReduceExample" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/common/lib/commons-cli-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
